@@ -1,0 +1,1 @@
+The Mediator pattern is used to reduce direct dependencies between objects by introducing a mediator that handles all communications between them. Instead of objects communicating directly with each other, they send messages or events to the mediator, which then forwards them to the appropriate handlers or components.
